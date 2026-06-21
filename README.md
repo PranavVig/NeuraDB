@@ -1,4 +1,4 @@
-# 🚀 NeuraDB — Semantic Search & RAG Engine
+#  NeuraDB — Semantic Search & RAG Engine
 
 ## Overview
 
@@ -10,19 +10,19 @@ The system enables efficient high-dimensional similarity search and context-awar
 
 ## Key Features
 
-- 🔍 **Vector Search Engine**  
+-  **Vector Search Engine**  
   Implements HNSW, KD-Tree, and brute-force search for similarity retrieval
 
-- 📏 **Multiple Distance Metrics**  
+- **Multiple Distance Metrics**  
   Cosine similarity, Euclidean distance, Manhattan distance
 
-- 🧠 **RAG Pipeline (LLM Integration)**  
+- **RAG Pipeline (LLM Integration)**  
   Uses local LLMs via Ollama for context-aware question answering
 
-- ⚡ **Efficient Search**  
+-  **Efficient Search**  
   Optimized from **O(N)** to **O(log N)** using HNSW
 
-- 🌐 **REST API Backend**  
+- **REST API Backend**  
   Supports document ingestion, indexing, and querying
 
 ---
